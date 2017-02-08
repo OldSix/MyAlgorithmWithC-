@@ -1,0 +1,3 @@
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/02-Sorting-Basic/02-Selection-Sort-Generate-Test-Cases/cmake-build-debug/CMakeFiles/02_Selection_Sort_Generate_Test_Cases.dir
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/02-Sorting-Basic/02-Selection-Sort-Generate-Test-Cases/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/02-Sorting-Basic/02-Selection-Sort-Generate-Test-Cases/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/02-Sorting-Basic/02-Selection-Sort-Generate-Test-Cases/SortTestHelper.h
+iostream
+-
+ctime
+-
+cassert
+-
+cstdlib
+-
+
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/02-Sorting-Basic/02-Selection-Sort-Generate-Test-Cases/main.cpp
+iostream
+-
+SortTestHelper.h
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/02-Sorting-Basic/02-Selection-Sort-Generate-Test-Cases/SortTestHelper.h
+
