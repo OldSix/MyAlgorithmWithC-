@@ -1,0 +1,3 @@
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/02-Sorting-Basic/03-Insertion-Sort/cmake-build-debug/CMakeFiles/03_Insertion_Sort.dir
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/02-Sorting-Basic/03-Insertion-Sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/02-Sorting-Basic/03-Insertion-Sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
