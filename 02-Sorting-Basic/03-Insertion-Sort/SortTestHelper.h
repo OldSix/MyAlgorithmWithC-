@@ -38,14 +38,14 @@ namespace SortTestHelper {
             int posx = rand()%n;
             int posy = rand()%n;
 
-            swap(arr[posx], arr[posy]);// 随机交换两个数的位置
+            std::swap(arr[posx], arr[posy]);// 随机交换两个数的位置
         }
 
         return arr;
     }
 
-    template <typename T>
-    int * copyIntArray(T arr[], int n)
+
+    int * copyIntArray(int a[], int n)
     {
         int * arr = new int[n];
         std::copy(a, a+n, arr);
