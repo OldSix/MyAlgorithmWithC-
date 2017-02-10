@@ -1,0 +1,3 @@
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/02-Sorting-Basic/04-Bubble-Sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/02-Sorting-Basic/04-Bubble-Sort/cmake-build-debug/CMakeFiles/04_Bubble_Sort.dir
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/02-Sorting-Basic/04-Bubble-Sort/cmake-build-debug/CMakeFiles/edit_cache.dir

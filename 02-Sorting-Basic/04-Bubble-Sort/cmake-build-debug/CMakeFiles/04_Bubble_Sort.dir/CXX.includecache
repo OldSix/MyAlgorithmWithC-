@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/02-Sorting-Basic/04-Bubble-Sort/InsertionSort.h
+
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/02-Sorting-Basic/04-Bubble-Sort/SelectionSort.h
+
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/02-Sorting-Basic/04-Bubble-Sort/SortTestHelper.h
+iostream
+-
+algorithm
+-
+string
+-
+ctime
+-
+cassert
+-
+
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/02-Sorting-Basic/04-Bubble-Sort/main.cpp
+iostream
+-
+SortTestHelper.h
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/02-Sorting-Basic/04-Bubble-Sort/SortTestHelper.h
+SelectionSort.h
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/02-Sorting-Basic/04-Bubble-Sort/SelectionSort.h
+InsertionSort.h
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/02-Sorting-Basic/04-Bubble-Sort/InsertionSort.h
+

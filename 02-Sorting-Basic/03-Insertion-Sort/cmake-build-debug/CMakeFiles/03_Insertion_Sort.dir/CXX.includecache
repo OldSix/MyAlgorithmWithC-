@@ -6,6 +6,8 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/02-Sorting-Basic/03-Insertion-Sort/InsertionSort.h
+
 C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/02-Sorting-Basic/03-Insertion-Sort/SelectionSort.h
 iostream
 -
@@ -33,4 +35,6 @@ SortTestHelper.h
 C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/02-Sorting-Basic/03-Insertion-Sort/SortTestHelper.h
 SelectionSort.h
 C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/02-Sorting-Basic/03-Insertion-Sort/SelectionSort.h
+InsertionSort.h
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/02-Sorting-Basic/03-Insertion-Sort/InsertionSort.h
 
