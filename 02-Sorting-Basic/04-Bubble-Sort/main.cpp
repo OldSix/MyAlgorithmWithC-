@@ -2,25 +2,8 @@
 #include "SortTestHelper.h"
 #include "SelectionSort.h"
 #include "InsertionSort.h"
-
-template <typename T>
-void bubbleSort(T arr[], int n)
-{
-    bool swapped;
-
-    do {
-        swapped = false;
-
-        for (int i = 1; i < n; ++i) {
-            if (arr[i-1] > arr[i]) {// 如果前一个数比后一个数大，那么交换两个数的位置，因为升序排列，前小后大
-                std::swap(arr[i-1], arr[i]);
-                swapped = true;
-            }
-        }
-        n--;
-    } while(swapped);
-}
-
+#include "BubbleSort.h"
+#include "ShellSort.h"
 
 int main(void)
 {
@@ -31,14 +14,17 @@ int main(void)
     int * arr1 = SortTestHelper::generateRandomArray(n, 0, n);
     int * arr2 = SortTestHelper::copyIntArray(arr1, n);
     int * arr3 = SortTestHelper::copyIntArray(arr1, n);
+    int * arr4 = SortTestHelper::copyIntArray(arr1, n);
 
     SortTestHelper::testSort("Selection Sort", selectionSort, arr1, n);
     SortTestHelper::testSort("Insertion Sort", insertionSort, arr2, n);
     SortTestHelper::testSort("Bubble Sort", bubbleSort, arr3, n);
+    SortTestHelper::testSort("Shell Sort", shellSort, arr4, n);
 
     delete[] arr1;
     delete[] arr2;
     delete[] arr3;
+    delete[] arr4;
 
     std::cout << std::endl;
 
@@ -50,14 +36,17 @@ int main(void)
     arr1 = SortTestHelper::generateNearlyOrderArray(n, swapTimes);
     arr2 = SortTestHelper::generateNearlyOrderArray(n, swapTimes);
     arr3 = SortTestHelper::generateNearlyOrderArray(n, swapTimes);
+    arr4 = SortTestHelper::generateNearlyOrderArray(n, swapTimes);
 
     SortTestHelper::testSort("Selection Sort", selectionSort, arr1, n);
     SortTestHelper::testSort("Insertion Sort", insertionSort, arr2, n);
     SortTestHelper::testSort("Bubble Sort", bubbleSort, arr3, n);
+    SortTestHelper::testSort("Shell Sort", shellSort, arr3, n);
 
     delete[] arr1;
     delete[] arr2;
     delete[] arr3;
+    delete[] arr4;
 
 
     return 0;
