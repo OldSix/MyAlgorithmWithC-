@@ -7,6 +7,19 @@
 
 #include "InsertionSort.h"
 
+/*
+ * 归并排序大致思路如下：
+ *
+ *  将数组二分，二分，直到分成只有一个元素的数组（可以简单的计算出层级其实就是log（N））
+ *  然后对两个最小单位的数组进行合并操作
+ *  直到完成全部的操作
+ *
+ *  这里再简单的说下Nlog（N）级别算法的简单思想其实就是：
+ *      将序列分成log（N）的层级，再对每个层级进行O(N)级别的算法来处理
+ * */
+
+
+
 // 将 arr[l...mid] 和 arr[mid+1...r] 两部分进行归并
 template <typename T>
 void __mergeSort(T arr[], int l, int mid, int r)
