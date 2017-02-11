@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/01-Merge-Sort/InsertionSort.h
+
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/01-Merge-Sort/MergeSort.h
+InsertionSort.h
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/01-Merge-Sort/InsertionSort.h
+
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/01-Merge-Sort/SortTestHelper.h
+ctime
+-
+cstdlib
+-
+cassert
+-
+
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/01-Merge-Sort/main.cpp
+iostream
+-
+InsertionSort.h
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/01-Merge-Sort/InsertionSort.h
+SortTestHelper.h
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/01-Merge-Sort/SortTestHelper.h
+MergeSort.h
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/01-Merge-Sort/MergeSort.h
+
