@@ -3,6 +3,7 @@
 
 CMakeFiles/01_Merge_Sort.dir/main.cpp.obj: ../InsertionSort.h
 CMakeFiles/01_Merge_Sort.dir/main.cpp.obj: ../MergeSort.h
+CMakeFiles/01_Merge_Sort.dir/main.cpp.obj: ../ShellSort.h
 CMakeFiles/01_Merge_Sort.dir/main.cpp.obj: ../SortTestHelper.h
 CMakeFiles/01_Merge_Sort.dir/main.cpp.obj: ../main.cpp
 
