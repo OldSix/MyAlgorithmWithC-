@@ -52,11 +52,11 @@
         <entry file="file://$PROJECT_DIR$/MergeSort.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+              <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
               <folding>
-                <element signature="e#395#407#0" expanded="true" />
-                <element signature="e#997#1009#0" expanded="true" />
-                <element signature="e#1227#1239#0" expanded="true" />
+                <element signature="e#471#483#0" expanded="true" />
+                <element signature="e#1069#1081#0" expanded="true" />
+                <element signature="e#1295#1307#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -336,12 +336,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1486810218663</updated>
-      <workItem from="1486810225871" duration="5509000" />
+      <workItem from="1486810225871" duration="6288000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5509000" />
+    <option name="totallyTimeSpent" value="6288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -423,11 +423,11 @@
     <entry file="file://$PROJECT_DIR$/MergeSort.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
           <folding>
-            <element signature="e#395#407#0" expanded="true" />
-            <element signature="e#997#1009#0" expanded="true" />
-            <element signature="e#1227#1239#0" expanded="true" />
+            <element signature="e#471#483#0" expanded="true" />
+            <element signature="e#1069#1081#0" expanded="true" />
+            <element signature="e#1295#1307#0" expanded="true" />
           </folding>
         </state>
       </provider>

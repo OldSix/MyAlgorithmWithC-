@@ -14,6 +14,9 @@
  *  然后对两个最小单位的数组进行合并操作
  *  直到完成全部的操作
  *
+ *  过程中还需要用到一个临时空间，所以归并排序对内存空间是有一定的消耗的
+ *  它的思想其实是说将两个已经排好序的数组合并成一个有序的数组
+ *
  *  这里再简单的说下Nlog（N）级别算法的简单思想其实就是：
  *      将序列分成log（N）的层级，再对每个层级进行O(N)级别的算法来处理
  * */
@@ -22,7 +25,7 @@
 
 // 将 arr[l...mid] 和 arr[mid+1...r] 两部分进行归并
 template <typename T>
-void __mergeSort(T arr[], int l, int mid, int r)
+void __merge(T arr[], int l, int mid, int r)
 {
     // 经测试，传递 aux数组的性能效果不好
     T aux[r-l+1];
@@ -59,7 +62,7 @@ void __mergeSort(T arr[], int l, int r)
     int mid = (l + r) / 2;
     __mergeSort(arr, l, mid);
     __mergeSort(arr, mid+1, r);
-    __mergeSort(arr, l, mid ,r);
+    __merge(arr, l, mid ,r);
 }
 
 template <typename T>
