@@ -5,6 +5,7 @@ CMakeFiles/03_QuickSort.dir/main.cpp.obj: ../InsertionSort.h
 CMakeFiles/03_QuickSort.dir/main.cpp.obj: ../MergeSort.h
 CMakeFiles/03_QuickSort.dir/main.cpp.obj: ../QuickSort.h
 CMakeFiles/03_QuickSort.dir/main.cpp.obj: ../QuickSort2.h
+CMakeFiles/03_QuickSort.dir/main.cpp.obj: ../QuickSort3.h
 CMakeFiles/03_QuickSort.dir/main.cpp.obj: ../ShellSort.h
 CMakeFiles/03_QuickSort.dir/main.cpp.obj: ../SortTestHelper.h
 CMakeFiles/03_QuickSort.dir/main.cpp.obj: ../main.cpp

@@ -18,6 +18,16 @@ C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/03-QuickSo
 
 C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/03-QuickSort/QuickSort2.h
 
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/03-QuickSort/QuickSort3.h
+InsertionSort.h
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/03-QuickSort/InsertionSort.h
+iostream
+-
+algorithm
+-
+ctime
+-
+
 C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/03-QuickSort/ShellSort.h
 
 C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/03-QuickSort/SortTestHelper.h
@@ -45,4 +55,6 @@ QuickSort.h
 C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/03-QuickSort/QuickSort.h
 QuickSort2.h
 C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/03-QuickSort/QuickSort2.h
+QuickSort3.h
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/03-QuickSort/QuickSort3.h
 
