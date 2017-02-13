@@ -1,0 +1,3 @@
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/03-QuickSort/cmake-build-debug/CMakeFiles/03_QuickSort.dir
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/03-QuickSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/03-QuickSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
