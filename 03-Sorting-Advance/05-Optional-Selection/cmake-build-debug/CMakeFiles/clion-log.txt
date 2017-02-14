@@ -1,0 +1,19 @@
+"D:\Program Files\CLion 2016.3.1\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Queen\Desktop\Algorithm\MyAlgorithmWithC-\03-Sorting-Advance\05-Optional-Selection
+CMake Error at D:/Program Files/CLion 2016.3.1/bin/cmake/share/cmake-3.6/Modules/CMakeMinGWFindMake.cmake:22 (message):
+  sh.exe was found in your PATH, here:
+
+  C:/Program Files/Git/usr/bin/sh.exe
+
+  For MinGW make to work correctly sh.exe must NOT be in your path.
+
+  Run cmake from a shell that does not have sh.exe in your PATH.
+
+  If you want to use a UNIX shell, then use MSYS Makefiles.
+
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+CMake Error: CMAKE_C_COMPILER not set, after EnableLanguage
+CMake Error: CMAKE_CXX_COMPILER not set, after EnableLanguage
+-- Configuring incomplete, errors occurred!
