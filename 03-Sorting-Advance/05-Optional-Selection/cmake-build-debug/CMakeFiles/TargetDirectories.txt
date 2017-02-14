@@ -1,0 +1,3 @@
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/05-Optional-Selection/cmake-build-debug/CMakeFiles/05_Optional_Selection.dir
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/05-Optional-Selection/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/05-Optional-Selection/cmake-build-debug/CMakeFiles/rebuild_cache.dir

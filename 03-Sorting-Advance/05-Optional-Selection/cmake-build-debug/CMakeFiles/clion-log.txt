@@ -1,19 +1,18 @@
 "D:\Program Files\CLion 2016.3.1\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Queen\Desktop\Algorithm\MyAlgorithmWithC-\03-Sorting-Advance\05-Optional-Selection
-CMake Error at D:/Program Files/CLion 2016.3.1/bin/cmake/share/cmake-3.6/Modules/CMakeMinGWFindMake.cmake:22 (message):
-  sh.exe was found in your PATH, here:
-
-  C:/Program Files/Git/usr/bin/sh.exe
-
-  For MinGW make to work correctly sh.exe must NOT be in your path.
-
-  Run cmake from a shell that does not have sh.exe in your PATH.
-
-  If you want to use a UNIX shell, then use MSYS Makefiles.
-
-Call Stack (most recent call first):
-  CMakeLists.txt:2 (project)
-
-
-CMake Error: CMAKE_C_COMPILER not set, after EnableLanguage
-CMake Error: CMAKE_CXX_COMPILER not set, after EnableLanguage
--- Configuring incomplete, errors occurred!
+-- The C compiler identification is GNU 4.8.1
+-- The CXX compiler identification is GNU 4.8.1
+-- Check for working C compiler: D:/Program Files/MinGw2/MinGW/bin/gcc.exe
+-- Check for working C compiler: D:/Program Files/MinGw2/MinGW/bin/gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: D:/Program Files/MinGw2/MinGW/bin/g++.exe
+-- Check for working CXX compiler: D:/Program Files/MinGw2/MinGW/bin/g++.exe -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/05-Optional-Selection/cmake-build-debug
