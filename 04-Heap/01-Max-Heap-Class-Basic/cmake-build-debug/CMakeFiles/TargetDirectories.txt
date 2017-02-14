@@ -1,0 +1,3 @@
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/01-Max-Heap-Class-Basic/cmake-build-debug/CMakeFiles/01_Max_Heap_Class_Basic.dir
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/01-Max-Heap-Class-Basic/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/01-Max-Heap-Class-Basic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
