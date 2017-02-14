@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/04-Optional-3-Selection/TestHelper.h
+cassert
+-
+iostream
+-
+string
+-
+ctime
+-
+algorithm
+-
+
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/04-Optional-3-Selection/main.cpp
+iostream
+-
+TestHelper.h
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/03-Sorting-Advance/04-Optional-3-Selection/TestHelper.h
+
