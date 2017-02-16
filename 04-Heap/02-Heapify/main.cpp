@@ -3,7 +3,6 @@
 #include "ShellSort.h"
 #include "MergeSort.h"
 #include "QuickSortThreeWays.h"
-#include "InsertionSort.h"
 #include "HeapSort.h"
 
 
@@ -17,18 +16,24 @@ int main(void)
     int * arr3 = SortTestHelper::copyIntArray(arr1, n);
     int * arr4 = SortTestHelper::copyIntArray(arr1, n);
     int * arr5 = SortTestHelper::copyIntArray(arr1, n);
+    int * arr6 = SortTestHelper::copyIntArray(arr1, n);
+    int * arr7 = SortTestHelper::copyIntArray(arr1, n);
 
 //    SortTestHelper::testSort("Insertion Sort", insertionSort, arr1, n);
     SortTestHelper::testSort("Shell Sort", shellSort, arr2, n);
     SortTestHelper::testSort("Merge Sort", mergeSort, arr3, n);
     SortTestHelper::testSort("Quick Sort", quickSort, arr4, n);
     SortTestHelper::testSort("Heap Sort", heapSort, arr5, n);
+    SortTestHelper::testSort("Heap Sort2", heapSort2, arr6, n);
+    SortTestHelper::testSort("Heap Sort3", heapSort3, arr7, n);
 
     delete[] arr1;
     delete[] arr2;
     delete[] arr3;
     delete[] arr4;
     delete[] arr5;
+    delete[] arr6;
+    delete[] arr7;
 
     std::cout << std::endl;
 
@@ -40,12 +45,24 @@ int main(void)
     arr3 = SortTestHelper::copyIntArray(arr1, n);
     arr4 = SortTestHelper::copyIntArray(arr1, n);
     arr5 = SortTestHelper::copyIntArray(arr1, n);
+    arr6 = SortTestHelper::copyIntArray(arr1, n);
+    arr7 = SortTestHelper::copyIntArray(arr1, n);
 
     SortTestHelper::testSort("Insertion Sort", insertionSort, arr1, n);
     SortTestHelper::testSort("Shell Sort", shellSort, arr2, n);
     SortTestHelper::testSort("Merge Sort", mergeSort, arr3, n);
     SortTestHelper::testSort("Quick Sort", quickSort, arr4, n);
     SortTestHelper::testSort("Heap Sort", heapSort, arr5, n);
+    SortTestHelper::testSort("Heap Sort2", heapSort2, arr6, n);
+    SortTestHelper::testSort("Heap Sort3", heapSort2, arr7, n);
+
+    delete[] arr1;
+    delete[] arr2;
+    delete[] arr3;
+    delete[] arr4;
+    delete[] arr5;
+    delete[] arr6;
+    delete[] arr7;
 
     std::cout << std::endl;
 
@@ -56,12 +73,24 @@ int main(void)
     arr3 = SortTestHelper::copyIntArray(arr1, n);
     arr4 = SortTestHelper::copyIntArray(arr1, n);
     arr5 = SortTestHelper::copyIntArray(arr1, n);
+    arr6 = SortTestHelper::copyIntArray(arr1, n);
+    arr7 = SortTestHelper::copyIntArray(arr1, n);
 
 //    SortTestHelper::testSort("Insertion Sort", insertionSort, arr1, n);
     SortTestHelper::testSort("Shell Sort", shellSort, arr2, n);
     SortTestHelper::testSort("Merge Sort", mergeSort, arr3, n);
     SortTestHelper::testSort("Quick Sort", quickSort, arr4, n);
     SortTestHelper::testSort("Heap Sort", heapSort, arr5, n);
+    SortTestHelper::testSort("Heap Sort2", heapSort2, arr6, n);
+    SortTestHelper::testSort("Heap Sort3", heapSort3, arr7, n);
+
+    delete[] arr1;
+    delete[] arr2;
+    delete[] arr3;
+    delete[] arr4;
+    delete[] arr5;
+    delete[] arr6;
+    delete[] arr7;
 
     std::cout << std::endl;
 
