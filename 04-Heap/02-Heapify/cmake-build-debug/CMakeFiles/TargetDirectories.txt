@@ -1,0 +1,3 @@
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/02-Heapify/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/02-Heapify/cmake-build-debug/CMakeFiles/02_Heapify.dir
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/02-Heapify/cmake-build-debug/CMakeFiles/rebuild_cache.dir
