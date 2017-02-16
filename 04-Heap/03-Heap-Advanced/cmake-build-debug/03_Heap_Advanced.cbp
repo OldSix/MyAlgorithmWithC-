@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="03_Heap_Advanced"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/PROGRA~1/MinGw2/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/PROGRA~1/MinGw2/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/PROGRA~1/MinGw2/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/PROGRA~1/MinGw2/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="03_Heap_Advanced">
+				<Option output="C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug/03_Heap_Advanced.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\program files\mingw2\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="d:\program files\mingw2\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="d:\program files\mingw2\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+					<Add directory="d:\program files\mingw2\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../mingw32/include"/>
+					<Add directory="d:\program files\mingw2\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="d:\program files\mingw2\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="d:\program files\mingw2\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/PROGRA~1/MinGw2/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug/Makefile&quot;  VERBOSE=1 03_Heap_Advanced"/>
+					<CompileFile command="D:/PROGRA~1/MinGw2/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/PROGRA~1/MinGw2/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/PROGRA~1/MinGw2/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="03_Heap_Advanced/fast">
+				<Option output="C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug/03_Heap_Advanced.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\program files\mingw2\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="d:\program files\mingw2\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="d:\program files\mingw2\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+					<Add directory="d:\program files\mingw2\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../mingw32/include"/>
+					<Add directory="d:\program files\mingw2\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="d:\program files\mingw2\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="d:\program files\mingw2\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/PROGRA~1/MinGw2/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug/Makefile&quot;  VERBOSE=1 03_Heap_Advanced/fast"/>
+					<CompileFile command="D:/PROGRA~1/MinGw2/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/PROGRA~1/MinGw2/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/PROGRA~1/MinGw2/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/PROGRA~1/MinGw2/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/PROGRA~1/MinGw2/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/PROGRA~1/MinGw2/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/PROGRA~1/MinGw2/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/PROGRA~1/MinGw2/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/PROGRA~1/MinGw2/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/PROGRA~1/MinGw2/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/PROGRA~1/MinGw2/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/main.cpp">
+			<Option target="03_Heap_Advanced"/>
+		</Unit>
+		<Unit filename="C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
