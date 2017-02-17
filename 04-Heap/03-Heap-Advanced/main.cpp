@@ -4,7 +4,7 @@
 
 int main(void)
 {
-    int n = 1000;
+    int n = 1000000;
     int * arr1 = SortTestHelper::generateRandomArray(n, 0, n);
     int * arr2 = SortTestHelper::copyIntArray(arr1, n);
     int * arr3 = SortTestHelper::copyIntArray(arr1, n);
@@ -13,11 +13,9 @@ int main(void)
     SortTestHelper::testSort("heap Sort2", heapSort2, arr2, n);
     SortTestHelper::testSort("heap Sort3", heapSort3, arr3, n);
 
-
     delete[] arr1;
     delete[] arr2;
     delete[] arr3;
-
 
     return 0;
 }

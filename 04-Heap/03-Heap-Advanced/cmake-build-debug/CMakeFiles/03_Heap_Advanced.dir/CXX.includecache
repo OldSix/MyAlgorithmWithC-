@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/HeapSort.h
+MaxHeap.h
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/MaxHeap.h
+
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/MaxHeap.h
+algorithm
+-
+cassert
+-
+
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/SortTestHelper.h
+iostream
+-
+algorithm
+-
+string
+-
+ctime
+-
+cassert
+-
+string
+-
+
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/main.cpp
+iostream
+-
+HeapSort.h
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/HeapSort.h
+SortTestHelper.h
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/03-Heap-Advanced/SortTestHelper.h
+
