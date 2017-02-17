@@ -1,0 +1,3 @@
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/04-IndexMaxHeap/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_4a38d.dir
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/04-IndexMaxHeap/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/edit_cache.dir
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/04-IndexMaxHeap/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/rebuild_cache.dir
