@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/04-IndexMaxHeap/HeapSortUsingMaxHeap.h
+
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/04-IndexMaxHeap/IndexMaxHeap.h
+algorithm
+-
+cassert
+-
+
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/04-IndexMaxHeap/MaxHeap.h
+
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/04-IndexMaxHeap/main.cpp
+iostream
+-
+IndexMaxHeap.h
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/04-IndexMaxHeap/IndexMaxHeap.h
+MaxHeap.h
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/04-IndexMaxHeap/MaxHeap.h
+HeapSortUsingMaxHeap.h
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/04-Heap/04-IndexMaxHeap/HeapSortUsingMaxHeap.h
+
