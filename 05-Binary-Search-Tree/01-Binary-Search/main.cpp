@@ -1,56 +1,46 @@
-
-#include <algorithm>
-#include <cassert>
-#include <iostream>
-
-template <typename T>
-int binary_search(T arr[], int n, T target)
-{
-    // arr[l...] 区间内进行搜索
-    int l = 0;
-    int r = n-1;
-    int mid;
-
-    while (l <= r) {
-        mid = l + (r-l)/2;
-
-        if (arr[mid] == target)
-            return mid;
-        else if (arr[mid] > target)
-            r = mid - 1;
-        else // arr[mid] > target
-            l = mid + 1;
-    }
-
-    return -1;
-}
-
-
-template <typename T>
-int __binary_search(T arr[], int l, int r,T target)
-{
-    if (l > r)
-        return -1;
-    int mid = l + (r-l)/2;
-    if (arr[mid] == target)
-        return mid;
-    else if (arr[mid] > target)
-        return __binary_search(arr, l, mid-1, target);
-    else
-        return __binary_search(arr, mid+1, r, target);
-}
-
-template <typename T>
-int binary_search_recursive(T arr[], int n, T target)
-{
-    return __binary_search(arr, 0, n-1, target);
-}
+#include "BinarySearchTree.h"
+#include <ctime>
+#include <cstdlib>
+#include "FileOps.h"
 
 int main(void)
 {
-    int arr[10] = {1,2,3,4,5,6,7,8,9,10};
+    std::string s = "<>?";
+    std::cout << FileOps::lowerS(s) << std::endl;
+    std::cout << FileOps::firstCharacterIndex(s, 0) << std::endl;
 
-    std::cout << binary_search(arr, 10, 9) << std::endl;
+    std::vector<std::string> v;
+    std::string filename = "1.txt";
+    FileOps::readFile(filename, v);
+
+    std::vector<std::string>::iterator it= v.begin();
+    for ( ; it != v.end() ; ++it) {
+        std::cout << *it << std::endl;
+    }
+
+    return 0;
+}
+
+
+int main01(void)
+{
+    srand((unsigned int)time(NULL));
+    BST<int, int> bst = BST<int, int>();
+
+
+    int n = 100;
+    for (int i = 0; i < n; ++i) {
+        int key = rand()%n;
+        int value = key;
+
+        bst.insert(key, value);
+    }
+
+    while (!bst.isEmpty()) {
+        std::cout << "max: " << bst.maximum() << std::endl;
+        bst.removeMax();
+        std::cout << "After remove max, size = " << bst.size() << std::endl;
+    }
 
     return 0;
 }

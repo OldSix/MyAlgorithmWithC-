@@ -5,3 +5,4 @@ set(CMAKE_CXX_STANDARD 11)
 
 set(SOURCE_FILES main.cpp)
 add_executable(01_Binary_Search ${SOURCE_FILES})
+aux_source_directory(. DIR_SRCS)

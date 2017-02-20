@@ -6,11 +6,31 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/05-Binary-Search-Tree/01-Binary-Search/main.cpp
-algorithm
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/05-Binary-Search-Tree/01-Binary-Search/BinarySearchTree.h
+iostream
 -
 cassert
 -
-iostream
+queue
 -
+
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/05-Binary-Search-Tree/01-Binary-Search/FileOps.h
+string
+-
+cassert
+-
+vector
+-
+fstream
+-
+
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/05-Binary-Search-Tree/01-Binary-Search/main.cpp
+BinarySearchTree.h
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/05-Binary-Search-Tree/01-Binary-Search/BinarySearchTree.h
+ctime
+-
+cstdlib
+-
+FileOps.h
+C:/Users/Queen/Desktop/Algorithm/MyAlgorithmWithC-/05-Binary-Search-Tree/01-Binary-Search/FileOps.h
 
